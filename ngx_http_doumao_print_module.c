@@ -161,5 +161,4 @@ ngx_doumao_print_merge_loc_conf(ngx_conf_t *cf, void *parent, void *child)
         ngx_doumao_print_init(conf);
         */
     return NGX_CONF_OK;
-    return NGX_CONF_OK;
 }
